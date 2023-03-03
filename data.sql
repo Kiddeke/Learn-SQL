@@ -1,5 +1,5 @@
-INSERT INTO bands(id,name) VALUES (1,'Seventh Wonder');
-INSERT INTO bands(id,name) VALUES (2,'Metallica');
+INSERT INTO bands(id,name) VALUES (1,'Seventh Wonderoop');
+INSERT INTO bands(id,name) VALUES (2,'The Weeknd');
 INSERT INTO bands(id,name) VALUES (3,'The Ocean');
 INSERT INTO bands(id,name) VALUES (4,'Within Temptation');
 INSERT INTO bands(id,name) VALUES (5,'Death');
